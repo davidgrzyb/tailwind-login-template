@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">npm run watch</p>
+<p align="left"> => npm run watch</p>
 
 ###
 
