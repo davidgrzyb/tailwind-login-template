@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A simple demo of a  HTLM Based TailwindCSS LogIn site.</p>
+<p align="left">A simple demo of a  HTLM Based TailwindCSS LogIn site for my Class's Assignment.</p>
 
 ###
 
