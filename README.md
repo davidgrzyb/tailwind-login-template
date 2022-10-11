@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">```<br>npm run watch<br>```</p>
+<p align="left">npm run watch</p>
 
 ###
 
@@ -46,6 +46,6 @@
 
 ###
 
-<p align="left">Source : https://github.com/davidgrzyb<br> > This repos is use for education purpose only.</p>
+<p align="left">Source : https://github.com/davidgrzyb<br>This repos is use for education purpose only.</p>
 
 ###
